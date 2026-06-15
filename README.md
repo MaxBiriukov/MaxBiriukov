@@ -25,5 +25,5 @@ HTML, CSS, JavaScript, C#, SQL, MySQL, Python, Git, GitHub, VS Code
 
 ## Contact
 
-Toronto, Ontario
-GitHub: MaxBiriukov
+* Location: Toronto, Ontario
+* GitHub: MaxBiriukov
