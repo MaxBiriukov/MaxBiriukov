@@ -18,6 +18,8 @@ I am currently building a project portfolio focused on web development, C#, SQL,
 A responsive static landing page for a fictional college, rebuilt from an academic HTML/CSS assignment into a cleaner portfolio project.
 
 **Tech:** HTML, CSS, Git, GitHub Desktop, Live Server
+**Repository:** https://github.com/MaxBiriukov/otter-college-website
+**Live Demo:** https://maxbiriukov.github.io/otter-college-website/
 
 ## Tech Stack
 
