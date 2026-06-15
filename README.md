@@ -1,16 +1,29 @@
-## Hi there 👋
+# Maksim Biriukov
 
-<!--
-**MaxBiriukov/MaxBiriukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Programming student at George Brown Polytechnic in Toronto.
 
-Here are some ideas to get you started:
+I am currently building a project portfolio focused on web development, C#, SQL, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* Cleaning and documenting college and personal projects for GitHub
+* Practicing HTML, CSS, JavaScript, C#, SQL, and Python
+* Learning Git, GitHub workflow, responsive design, and project documentation
+* Preparing for internship and entry-level software / IT roles
+
+## Projects
+
+### Otter College Website
+
+A responsive static landing page for a fictional college, rebuilt from an academic HTML/CSS assignment into a cleaner portfolio project.
+
+**Tech:** HTML, CSS, Git, GitHub Desktop, Live Server
+
+## Tech Stack
+
+HTML, CSS, JavaScript, C#, SQL, MySQL, Python, Git, GitHub, VS Code
+
+## Contact
+
+Toronto, Ontario
+GitHub: MaxBiriukov
