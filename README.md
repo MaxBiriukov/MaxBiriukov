@@ -43,6 +43,16 @@ Tech: C#, .NET 10, Spectre.Console, System.Text.Json, Git
 
 - Repository: https://github.com/MaxBiriukov/course-manager
 
+### SQL Clinic Database
+
+A MySQL database project for a walk-in clinic with a normalized schema, seed data, and reporting queries.
+
+The project models patients, doctors, staff, appointments, enrollments, diagnostic tests, visit notes, payments, and staff shifts. It includes primary/foreign keys, lookup tables, a many-to-many relationship through a junction table, and reporting queries using joins, grouping, HAVING, UNION, and calculated columns.
+
+Tech: MySQL, SQL, MySQL Workbench, Git, GitHub Desktop
+
+- Repository: https://github.com/MaxBiriukov/sql-clinic-database
+
 ## Tech Stack
 
 HTML, CSS, JavaScript, C#, .NET, SQL, MySQL, Python, Git, GitHub, VS Code
