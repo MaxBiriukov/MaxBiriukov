@@ -24,15 +24,6 @@ Tech: HTML, CSS, JavaScript, JSON, localStorage, GitHub Pages
 * Repository: https://github.com/MaxBiriukov/movie-discovery-app
 * Live Demo: https://maxbiriukov.github.io/movie-discovery-app/
 
-### Otter College Website
-
-A responsive static landing page for a fictional college, rebuilt from an academic HTML/CSS assignment into a cleaner portfolio project.
-
-Tech: HTML, CSS, Git, GitHub Desktop, Live Server
-
-* Repository: https://github.com/MaxBiriukov/otter-college-website
-* Live Demo: https://maxbiriukov.github.io/otter-college-website/
-
 ### Course Manager
 
 A C# terminal application for managing students, courses, and course registrations.
@@ -52,6 +43,26 @@ The project models patients, doctors, staff, appointments, enrollments, diagnost
 Tech: MySQL, SQL, MySQL Workbench, Git, GitHub Desktop
 
 - Repository: https://github.com/MaxBiriukov/sql-clinic-database
+
+### Catch Me If You Can
+
+A grid-based chase game built with Python and Pygame.
+
+Features collectible items, randomly generated obstacles, increasing difficulty, and BFS pathfinding that allows enemies to navigate around walls.
+
+**Tech:** Python, Pygame, BFS Pathfinding, Git, GitHub Desktop
+
+- Repository: https://github.com/MaxBiriukov/catch-me-if-you-can-pygame
+
+### Otter College Website
+
+A responsive static landing page for a fictional college, rebuilt from an academic HTML/CSS assignment into a cleaner portfolio project.
+
+Tech: HTML, CSS, Git, GitHub Desktop, Live Server
+
+* Repository: https://github.com/MaxBiriukov/otter-college-website
+* Live Demo: https://maxbiriukov.github.io/otter-college-website/
+
 
 ## Tech Stack
 
