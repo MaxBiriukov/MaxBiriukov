@@ -1,15 +1,8 @@
 # Maksim Biriukov
 
-Computer Programming student at George Brown Polytechnic in Toronto.
+Computer Programming student at George Brown Polytechnic in Toronto, graduating in April 2027.
 
-I am currently building a project portfolio focused on web development, C#, SQL, and Python.
-
-## Current Focus
-
-* Building and documenting portfolio projects in C#, web development, SQL, and Python
-* Practicing Git, GitHub workflow, and clean project structure
-* Improving problem-solving skills through small practical applications
-* Preparing for internship and entry-level software / IT roles
+I build projects using C#, JavaScript, SQL, and Python, both independently and as part of college teams.
 
 ## Projects
 
@@ -66,9 +59,9 @@ Tech: HTML, CSS, Git, GitHub Desktop, Live Server
 
 ## Tech Stack
 
-HTML, CSS, JavaScript, C#, .NET, SQL, MySQL, Python, Git, GitHub, VS Code
+C#, .NET, ASP.NET Core MVC, Entity Framework Core, SQL, MySQL, SQLite, JavaScript, HTML, CSS, Python (basic), Git, GitHub
 
 ## Contact
 
 * Location: Toronto, Ontario
-* GitHub: MaxBiriukov
+* LinkedIn: [Maksim Biriukov](https://www.linkedin.com/in/maksimbiriukov/)
